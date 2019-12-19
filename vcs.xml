@@ -46,6 +46,10 @@
           <option name="url" value="ssh://git@prjira.kmd.dk:7999/sts/sts-tests.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@prjira.kmd.dk:7999/sts/adm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\src" />
