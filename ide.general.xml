@@ -1,5 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
+    <option name="defaultProjectDirectory" value="C:\dev" />
+    <option name="reopenLastProject" value="false" />
   </component>
 </application>
